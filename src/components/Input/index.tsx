@@ -1,18 +1,19 @@
 import "./style.scss"
+import {
+  InputHTMLAttributes,
+} from 'react';
 
-interface InputProps {
-  label: string
-  placeholder: string
-  onChange: (event: React.ChangeEvent<HTMLInputElement>) => void
-  name: string
-  value: string
+interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
+  label:string;
 }
 
-const Input = ({ label, placeholder, onChange, name, value }: InputProps) => {
+const Input = (props: InputProps) => {
+  const {label, ...restProps} = props;
+  
   return (
     <div className="input">
       <label htmlFor="">{label}</label>
-      <input type="text" placeholder={placeholder} onChange={onChange} name={name} value={value} />
+      <input type="text" {...restProps} />
     </div>
   )
 }
