@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/task-list/static/css/main.f140734d.css",
+    "main.js": "/task-list/static/js/main.023a589f.js",
+    "static/js/787.25a4f316.chunk.js": "/task-list/static/js/787.25a4f316.chunk.js",
+    "static/media/poppins-v20-latin-600.woff": "/task-list/static/media/poppins-v20-latin-600.25ea813988479bcb587a.woff",
+    "static/media/poppins-v20-latin-regular.woff": "/task-list/static/media/poppins-v20-latin-regular.f61407da33b59324fbef.woff",
+    "static/media/poppins-v20-latin-200.woff": "/task-list/static/media/poppins-v20-latin-200.9a201ad3b2d2138a7e77.woff",
+    "static/media/poppins-v20-latin-300.woff": "/task-list/static/media/poppins-v20-latin-300.5558b04900a67eaa589e.woff",
+    "static/media/poppins-v20-latin-700.woff": "/task-list/static/media/poppins-v20-latin-700.c54a52658bf21b37083d.woff",
+    "static/media/poppins-v20-latin-500.woff": "/task-list/static/media/poppins-v20-latin-500.8609f9c59114a158e3ad.woff",
+    "static/media/poppins-v20-latin-600.woff2": "/task-list/static/media/poppins-v20-latin-600.91145014c0350c248ed2.woff2",
+    "static/media/poppins-v20-latin-200.woff2": "/task-list/static/media/poppins-v20-latin-200.7498246ad20e0ba71240.woff2",
+    "static/media/poppins-v20-latin-regular.woff2": "/task-list/static/media/poppins-v20-latin-regular.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-v20-latin-300.woff2": "/task-list/static/media/poppins-v20-latin-300.39576fe9df8a22cc1bcc.woff2",
+    "static/media/poppins-v20-latin-700.woff2": "/task-list/static/media/poppins-v20-latin-700.d86662fe776dae29ea78.woff2",
+    "static/media/poppins-v20-latin-500.woff2": "/task-list/static/media/poppins-v20-latin-500.08491d3f7fe7ae88ef44.woff2",
+    "static/media/edit.svg": "/task-list/static/media/edit.39893f6d25aec782c94be43ef64241e7.svg",
+    "static/media/delete.svg": "/task-list/static/media/delete.6dc998c1a1c34db9eb015bdde9dbe455.svg",
+    "static/media/close.svg": "/task-list/static/media/close.2ea65008d9561733661a673b7a19fde1.svg",
+    "index.html": "/task-list/index.html",
+    "static/media/add.svg": "/task-list/static/media/add.c4b6875612273c7ae6f2cec6eafc8f0a.svg",
+    "main.f140734d.css.map": "/task-list/static/css/main.f140734d.css.map",
+    "main.023a589f.js.map": "/task-list/static/js/main.023a589f.js.map",
+    "787.25a4f316.chunk.js.map": "/task-list/static/js/787.25a4f316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f140734d.css",
+    "static/js/main.023a589f.js"
+  ]
+}
