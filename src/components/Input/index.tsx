@@ -1,12 +1,6 @@
 import "./style.scss"
 
-interface InputProps {
-  label: string
-  placeholder: string
-  onChange: (event: React.ChangeEvent<HTMLInputElement>) => void
-  name: string
-  value: string
-}
+interface InputProps extends InputHTMLAttributes<HTMLInputElement> {}
 
 const Input = ({ label, placeholder, onChange, name, value }: InputProps) => {
   return (
